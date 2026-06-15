@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = '../build/SIMULATION.ino.bin'
+elf     = '../build/SIMULATION.ino.elf'
+rfc2217ServerPort = 5001

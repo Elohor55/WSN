@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..,..\\..,..\\..\\..,..\\..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32",
+  "hardwareFolders": "C:\\Users\\OLAOYE BUKOLA\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.10,C:\\Users\\OLAOYE BUKOLA\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.10",
+  "otherLibrariesFolders": "C:\\Users\\OLAOYE BUKOLA\\OneDrive\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\OLAOYE BUKOLA\\OneDrive\\Documents\\VICTORY\\FYP\\WSN\\SIMULATION"
+}
